@@ -24,7 +24,7 @@ XSteam = "95ff35a0-be81-11e9-2ca3-5b4e338e8476"
 [compat]
 BenchmarkTools = "1"
 CairoMakie = "0.15"
-Catalyst = "15"
+Catalyst = "15, 16"
 Chairmarks = "1"
 DataStructures = "0.19"
 LinearSolve = "3"
