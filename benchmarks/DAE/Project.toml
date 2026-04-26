@@ -12,7 +12,7 @@ Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 Sundials = "c3572dad-4567-51f8-b174-8c6c989267f4"
 
 [compat]
-DASKR = "2"
+DASKR = "2, 3"
 DASSL = "2"
 DiffEqDevTools = "2.30"
 ModelingToolkit = "9"
