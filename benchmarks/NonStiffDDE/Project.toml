@@ -9,7 +9,7 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 [compat]
 DDEProblemLibrary = "0.1"
-DelayDiffEq = "5.37"
+DelayDiffEq = "5.37, 6"
 DiffEqDevTools = "2.30"
 LabelledArrays = "1"
 Plots = "1.4"
