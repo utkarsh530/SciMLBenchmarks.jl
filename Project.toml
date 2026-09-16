@@ -1,7 +1,7 @@
 name = "SciMLBenchmarks"
 uuid = "31c91b34-3c75-11e9-0341-95557aab0344"
-authors = ["Chris Rackauckas, Yingbo Ma, Vaibhav Dixit"]
 version = "0.1.3"
+authors = ["Chris Rackauckas, Yingbo Ma, Vaibhav Dixit"]
 
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
@@ -15,7 +15,7 @@ Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Weave = "44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9"
 
 [compat]
-CSV = "0.10"
+CSV = "0.10, 1"
 DataFrames = "1"
 Git = "1.2"
 IJulia = "1.21"
